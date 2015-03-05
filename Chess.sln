@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{0BE702F3-C788-4A34-A945-34E88C887ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessUI", "ChessUI\ChessUI.csproj", "{DE6CA9D5-2E9E-4967-B640-BD6FB73A52F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE702F3-C788-4A34-A945-34E88C887ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE702F3-C788-4A34-A945-34E88C887ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE702F3-C788-4A34-A945-34E88C887ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE702F3-C788-4A34-A945-34E88C887ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6CA9D5-2E9E-4967-B640-BD6FB73A52F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6CA9D5-2E9E-4967-B640-BD6FB73A52F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6CA9D5-2E9E-4967-B640-BD6FB73A52F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6CA9D5-2E9E-4967-B640-BD6FB73A52F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
